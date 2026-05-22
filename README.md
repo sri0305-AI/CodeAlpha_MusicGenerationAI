@@ -53,3 +53,13 @@ The trained model successfully generates new musical compositions based on learn
 
 ## Author
 Developed as part of an AI Music Generation Internship Project.
+## Project Screenshots
+
+### Model Training
+![Training Output](images/training_output.png)
+
+### Training Loss Graph
+![Loss Graph](images/loss_graph.png)
+
+### Generated Music
+![Generated Music](images/generated_music.png)
