@@ -50,3 +50,28 @@ The trained model successfully generates new musical compositions based on learn
 - Support multiple music genres
 - Deploy as a web application
 - Add real-time music generation
+- # AI Music Generation using LSTM
+
+## Project Overview
+This project generates music using an LSTM neural network trained on MIDI files.
+
+## Technologies Used
+- Python
+- TensorFlow
+- Keras
+- Music21
+
+## Project Screenshots
+
+## Project Demo
+![Project Demo](images/project_demo.png)
+
+### Model Trained output
+![Training Output](images/training_output.png)
+
+### Training Loss Graph
+![Loss Graph](images/loss_graph.png)
+
+## Generated Output
+The model generates MIDI music files based on learned note patterns.
+
