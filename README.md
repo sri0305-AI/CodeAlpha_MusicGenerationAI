@@ -74,4 +74,6 @@ This project generates music using an LSTM neural network trained on MIDI files.
 
 ## Generated Output
 The model generates MIDI music files based on learned note patterns.
+## Author
+Sri Priyanka S
 
